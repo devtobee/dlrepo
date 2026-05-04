@@ -157,47 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="2dust--v2rayn"></div>
 
-### 2dust--v2rayN
-
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.20.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.20.4)
-
-| File | Size | Download |
-|------|------|----------|
-| `v2rayN-linux-64.deb` | 68.9 MB | [⬇️ Download](https://raw.githubusercontent.com/devtobee/dlrepo/main/releases/2dust/v2rayN/v2rayN-linux-64.deb) |
-| `v2rayN-linux-arm64.deb` | 62.4 MB | [⬇️ Download](https://raw.githubusercontent.com/devtobee/dlrepo/main/releases/2dust/v2rayN/v2rayN-linux-arm64.deb) |
-| `v2rayN-linux-rhel-64.rpm` | 76.5 MB | [⬇️ Download](https://raw.githubusercontent.com/devtobee/dlrepo/main/releases/2dust/v2rayN/v2rayN-linux-rhel-64.rpm) |
-| `v2rayN-linux-rhel-arm64.rpm` | 71.7 MB | [⬇️ Download](https://raw.githubusercontent.com/devtobee/dlrepo/main/releases/2dust/v2rayN/v2rayN-linux-rhel-arm64.rpm) |
-| `v2rayN-linux-rhel-riscv64.rpm` | 72.6 MB | [⬇️ Download](https://raw.githubusercontent.com/devtobee/dlrepo/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
-
----
-
-<div id="nulllatency--flowdriver"></div>
-
-### NullLatency--FlowDriver
-
-🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.4</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.4)
-
-| File | Size | Download |
-|------|------|----------|
-| `flow-driver-v0.0.4-darwin-amd64.zip` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/devtobee/dlrepo/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-amd64.zip) |
-| `flow-driver-v0.0.4-linux-amd64.zip` | 9.4 MB | [⬇️ Download](https://raw.githubusercontent.com/devtobee/dlrepo/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-linux-amd64.zip) |
-
----
-
-<div id="sagernet--sing-box"></div>
-
-### SagerNet--sing-box
-
-🔗 [source](https://github.com/SagerNet/sing-box) – [<code><small>v1.13.11</small></code>](https://github.com/SagerNet/sing-box/releases/tag/v1.13.11)
-
-| File | Size | Download |
-|------|------|----------|
-| `SFA-1.13.11-arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/devtobee/dlrepo/main/releases/SagerNet/sing-box/SFA-1.13.11-arm64-v8a.apk) |
-| `SFA-1.13.11-legacy-android-5-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/devtobee/dlrepo/main/releases/SagerNet/sing-box/SFA-1.13.11-legacy-android-5-arm64-v8a.apk) |
-| `sing-box-1.13.11-darwin-amd64.tar.gz` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/devtobee/dlrepo/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-amd64.tar.gz) |
-| `sing-box-1.13.11-darwin-arm64.tar.gz` | 17.7 MB | [⬇️ Download](https://raw.githubusercontent.com/devtobee/dlrepo/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-arm64.tar.gz) |
-| `sing-box-1.13.11-windows-amd64-legacy-windows-7.zip` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/devtobee/dlrepo/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64-legacy-windows-7.zip) |
-| `sing-box-1.13.11-windows-amd64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/devtobee/dlrepo/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64.zip) |
 <!-- RELEASES_END -->
